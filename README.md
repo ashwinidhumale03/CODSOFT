@@ -1,2 +1,2 @@
 # Landing-Page
-Which is to create a Calculator using the HTML , CSS 
+Which is to create a Calculator using the HTML , CSS and Javascript
